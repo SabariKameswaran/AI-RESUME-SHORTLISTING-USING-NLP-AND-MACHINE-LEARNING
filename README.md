@@ -42,6 +42,7 @@ For any questions or issues, please open an issue on GitHub or contact sabariedu
 We would like to express our gratitude to the following individuals and organizations for their contributions, support, and inspiration:
 
 - **Sabari Kameswaran S**
+- **Shaunak J**
 - **Kirshoth S** 
 - **Tharun JP** 
 
